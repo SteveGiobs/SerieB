@@ -3,7 +3,7 @@
   { "casa": "Savona",   "trasf": "Genova",   "sc1": 36,   "sc2": 7,    "data": "2025-10-26", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
   { "casa": "Savona",   "trasf": "Amatori",  "sc1": 36,   "sc2": 17,   "data": "2025-11-02", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
   { "casa": "Province", "trasf": "Savona",   "sc1": 16,   "sc2": 28,   "data": "2025-11-30", "ora": "14:30" , "luogo": "Campo Carlo Androne, Recco"},
-  { "casa": "Savona",   "trasf": "Recco",    "sc1": null, "sc2": null, "data": "2025-12-14", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
+  { "casa": "Savona",   "trasf": "Recco",    "sc1": 19,   "sc2": 18,   "data": "2025-12-14", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
   { "casa": "Imperia",  "trasf": "Savona",   "sc1": null, "sc2": null, "data": "2026-01-18", "ora": "14:30" , "luogo": "Imperia"},
   { "casa": "Savona",   "trasf": "Cogoleto", "sc1": null, "sc2": null, "data": "2026-01-25", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
   
