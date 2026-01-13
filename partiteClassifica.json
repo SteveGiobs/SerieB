@@ -1,6 +1,6 @@
 [
   { "casa": "Genova",   "trasf": "Cogoleto",  "sc1": 17,   "sc2": 5 ,    "pt1": 4, "pt2": 0},
-  { "casa": "Imperia",  "trasf": "Amatori",   "sc1": 3,    "sc2": 37 ,   "pt1": 0, "pt2": 5},
+  { "casa": "Imperia",  "trasf": "Amatori",   "sc1": 3,    "sc2": 38 ,   "pt1": 0, "pt2": 5},
   { "casa": "Province", "trasf": "Recco",     "sc1": 23,   "sc2": 15 ,   "pt1": 4, "pt2": 0},
   { "casa": "Spezia",   "trasf": "Savona",    "sc1": 0,    "sc2": 29 ,   "pt1": 0, "pt2": 5},
   
@@ -15,7 +15,7 @@
   { "casa": "Genova",   "trasf": "Province",  "sc1": 22,   "sc2": 8 ,    "pt1": 5, "pt2": 0},
   
   { "casa": "Amatori",  "trasf": "Genova",    "sc1": 18,   "sc2": 29 ,   "pt1": 0, "pt2": 5},
-  { "casa": "Imperia",  "trasf": "Cogoleto",  "sc1": 8,    "sc2": 31 ,   "pt1": 0, "pt2": 5},
+  { "casa": "Imperia",  "trasf": "Cogoleto",  "sc1": 8,    "sc2": 38 ,   "pt1": 0, "pt2": 5},
   { "casa": "Province", "trasf": "Savona",    "sc1": 16,   "sc2": 28 ,   "pt1": 0, "pt2": 5},
   { "casa": "Spezia",   "trasf": "Recco",     "sc1": 16,   "sc2": 12 ,   "pt1": 4, "pt2": 1},
   
