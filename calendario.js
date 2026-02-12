@@ -53,7 +53,7 @@ fetch('https://SteveGiobs.github.io/miosito/partiteCalendario.json')
       const nomeAway = nomiSquadre[away];
 
       const resHome = nonGiocata ? "" :
-        (p.sc1 > p.sc2 ? "VINCENTE" : (p.sc1 < p.sc2 ? "PREDENTE" : "PAREGGIO"));
+        (p.sc1 > p.sc2 ? "VINCENTE" : (p.sc1 < p.sc2 ? "PERDENTE" : "PAREGGIO"));
       const resAway = nonGiocata ? "" :
         (p.sc2 > p.sc1 ? "VINCENTE" : (p.sc2 < p.sc1 ? "PERDENTE" : "PAREGGIO"));
 
