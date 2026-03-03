@@ -9,7 +9,7 @@
   
   { "casa": "Savona",   "trasf": "Spezia",   "sc1": 72, "sc2": 21, "data": "2026-02-01", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
   { "casa": "Genova",   "trasf": "Savona",   "sc1": 14, "sc2": 32, "data": "2026-02-22", "ora": "14:30" , "luogo": "Stadio Carlini Bollesan, Genova"},
-  { "casa": "Amatori",  "trasf": "Savona",   "sc1": 14, "sc2": 15, "data": "2026-03-01", "ora": "14:30" , "luogo": "Stadio Carlini Bollesan, Genova"},
+  { "casa": "Amatori",  "trasf": "Savona",   "sc1": 14, "sc2": 15, "data": "2026-03-01", "ora": "17:00" , "luogo": "Stadio Carlini Bollesan, Genova"},
   { "casa": "Savona",   "trasf": "Province", "sc1": null, "sc2": null, "data": "2026-03-15", "ora": "14:30" , "luogo": "Stadio Fontanassa, Savona"},
   { "casa": "Recco",    "trasf": "Savona",   "sc1": null, "sc2": null, "data": "2026-03-22", "ora": "14:30" , "luogo": "Campo Carlo Androne, Recco"},
   { "casa": "Savona",   "trasf": "Imperia",  "sc1": null, "sc2": null, "data": "2026-04-12", "ora": "15:30" , "luogo": "Stadio Fontanassa, Savona"},
