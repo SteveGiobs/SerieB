@@ -49,7 +49,7 @@ function aggiungiSquadra(nome) {
   }
 }
 
-fetch('https://SteveGiobs.github.io/miosito/partiteClassifica.json')
+fetch('https://SteveGiobs.github.io/SerieB/partiteClassifica.json')
   .then(res => res.json())
   .then(partiteCalendario => {
     partiteCalendario.forEach(p => {
