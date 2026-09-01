@@ -4,7 +4,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "18/10/2026",
+    "data": "2026-10-18",
     "ora": "15:30",
     "luogo": "Campo Diego Santi, Ivrea"
   },
@@ -13,7 +13,7 @@
     "trasf": "biella",
     "sc1": null,
     "sc2": null,
-    "data": "25/10/2026",
+    "data": "2026-10-25",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -22,7 +22,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "08/11/2026",
+    "data": "2026-11-08",
     "ora": "14:30",
     "luogo": "Campo Sportivo Rugby San Mauro, San Mauro Torinese"
   },
@@ -31,7 +31,7 @@
     "trasf": "milano",
     "sc1": null,
     "sc2": null,
-    "data": "15/11/2026",
+    "data": "2026-11-15",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -40,7 +40,7 @@
     "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
-    "data": "29/11/2026",
+    "data": "2026-11-29",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -49,7 +49,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "06/12/2026",
+    "data": "2026-12-06",
     "ora": "14:30",
     "luogo": "Centro Sportivo Comunale Venegoni-Marazzini, Parabiago"
   },
@@ -58,7 +58,7 @@
     "trasf": "varese",
     "sc1": null,
     "sc2": null,
-    "data": "13/12/2026",
+    "data": "2026-12-13",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -67,7 +67,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "17/01/2027",
+    "data": "2027-01-17",
     "ora": "14:30",
     "luogo": "Campo Molinello, Rho"
   },
@@ -76,7 +76,7 @@
     "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
-    "data": "24/01/2027",
+    "data": "2027-01-24",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -85,7 +85,7 @@
     "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
-    "data": "31/01/2027",
+    "data": "2027-01-31",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -94,7 +94,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "21/02/2027",
+    "data": "2027-02-21",
     "ora": "14:30",
     "luogo": "Cittadella del Rugby, Biella"
   },
@@ -103,7 +103,7 @@
     "trasf": "mauro",
     "sc1": null,
     "sc2": null,
-    "data": "28/02/2027",
+    "data": "2027-02-28",
     "ora": "14:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -112,7 +112,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "21/03/2027",
+    "data": "2027-03-21",
     "ora": "14:30",
     "luogo": "Centro Sportivo Mario Giuriati, Milano"
   },
@@ -121,7 +121,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "04/04/2027",
+    "data": "2027-04-04",
     "ora": "15:30",
     "luogo": "Polo del Rugby Franco Viterbi, Cernusco sul Naviglio"
   },
@@ -130,7 +130,7 @@
     "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
-    "data": "11/04/2027",
+    "data": "2027-04-11",
     "ora": "15:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -139,7 +139,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "18/04/2027",
+    "data": "2027-04-18",
     "ora": "15:30",
     "luogo": "Centro Sportivo Comunale Aldo Levi, Varese"
   },
@@ -148,7 +148,7 @@
     "trasf": "rho",
     "sc1": null,
     "sc2": null,
-    "data": "09/05/2027",
+    "data": "2027-05-09",
     "ora": "15:30",
     "luogo": "Stadio Fontanassa, Savona"
   },
@@ -157,7 +157,7 @@
     "trasf": "savona",
     "sc1": null,
     "sc2": null,
-    "data": "16/05/2027",
+    "data": "2027-05-16",
     "ora": "15:30",
     "luogo": "Stadio Cerri-Mari, Sondrio"
   }
