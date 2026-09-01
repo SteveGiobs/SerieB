@@ -1,719 +1,719 @@
 [
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Savona Rugby",
+    "casa": "ivrea",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Rugby Cernusco",
+    "casa": "biella",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Rugby Varese",
+    "casa": "mauro",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "CUS Milano Rugby",
+    "casa": "rho",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Rugby Sondrio",
+    "casa": "parabiago",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "sondrio",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Biella Rugby Club",
+    "casa": "savona",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Rugby San Mauro",
+    "casa": "milano",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Rugby Rho",
+    "casa": "varese",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Rugby Parabiago",
+    "casa": "cernusco",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "rho",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Rugby Sondrio",
+    "casa": "biella",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Savona Rugby",
+    "casa": "mauro",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Rugby Cernusco",
+    "casa": "milano",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Rugby Varese",
+    "casa": "parabiago",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Rugby Parabiago",
+    "casa": "ivrea",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Biella Rugby Club",
+    "casa": "varese",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Rugby San Mauro",
+    "casa": "cernusco",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Rugby Rho",
+    "casa": "sondrio",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "CUS Milano Rugby",
+    "casa": "savona",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "biella",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Rugby Sondrio",
+    "casa": "mauro",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Rugby Rho",
+    "casa": "parabiago",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Rugby Cernusco",
+    "casa": "savona",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Rugby Varese",
+    "casa": "milano",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Rugby San Mauro",
+    "casa": "ivrea",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Biella Rugby Club",
+    "casa": "rho",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Rugby Cernusco",
+    "casa": "varese",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Savona Rugby",
+    "casa": "parabiago",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "CUS Milano Rugby",
+    "casa": "sondrio",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "milano",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Rugby Parabiago",
+    "casa": "biella",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Rugby Rho",
+    "casa": "mauro",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Rugby Sondrio",
+    "casa": "cernusco",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Rugby Varese",
+    "casa": "savona",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Rugby Cernusco",
+    "casa": "ivrea",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "CUS Milano Rugby",
+    "casa": "biella",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Rugby San Mauro",
+    "casa": "parabiago",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Savona Rugby",
+    "casa": "rho",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Rugby Varese",
+    "casa": "sondrio",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "varese",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Biella Rugby Club",
+    "casa": "mauro",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Rugby Rho",
+    "casa": "cernusco",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Rugby Parabiago",
+    "casa": "milano",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Rugby Sondrio",
+    "casa": "savona",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "savona",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Biella Rugby Club",
+    "casa": "cernusco",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Rugby San Mauro",
+    "casa": "varese",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Rugby Rho",
+    "casa": "milano",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Rugby Parabiago",
+    "casa": "sondrio",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Rugby Sondrio",
+    "casa": "ivrea",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Savona Rugby",
+    "casa": "biella",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "CUS Milano Rugby",
+    "casa": "mauro",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Rugby Varese",
+    "casa": "rho",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Rugby Cernusco",
+    "casa": "parabiago",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Rugby Rho",
+    "casa": "ivrea",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Biella Rugby Club",
+    "casa": "sondrio",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Rugby San Mauro",
+    "casa": "savona",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "CUS Milano Rugby",
+    "casa": "cernusco",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Rugby Parabiago",
+    "casa": "varese",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "parabiago",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Rugby Varese",
+    "casa": "biella",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Rugby Cernusco",
+    "casa": "mauro",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Rugby Sondrio",
+    "casa": "rho",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Savona Rugby",
+    "casa": "milano",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Biella Rugby Club",
+    "casa": "ivrea",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Rugby San Mauro",
+    "casa": "sondrio",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Rugby Parabiago",
+    "casa": "rho",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Savona Rugby",
+    "casa": "cernusco",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "CUS Milano Rugby",
+    "casa": "varese",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "mauro",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Rugby Rho",
+    "casa": "biella",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Rugby Varese",
+    "casa": "cernusco",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Rugby Parabiago",
+    "casa": "savona",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Rugby Sondrio",
+    "casa": "milano",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "CUS Milano Rugby",
+    "casa": "ivrea",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "Biella Rugby Club",
+    "casa": "parabiago",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Rugby San Mauro",
+    "casa": "rho",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Rugby Cernusco",
+    "casa": "sondrio",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Savona Rugby",
+    "casa": "varese",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Cernusco",
-    "trasf": "Ivrea Rugby Club",
+    "casa": "cernusco",
+    "trasf": "ivrea",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "CUS Milano Rugby",
-    "trasf": "Biella Rugby Club",
+    "casa": "milano",
+    "trasf": "biella",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby San Mauro",
-    "trasf": "Rugby Parabiago",
+    "casa": "mauro",
+    "trasf": "parabiago",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Savona Rugby",
-    "trasf": "Rugby Rho",
+    "casa": "savona",
+    "trasf": "rho",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Varese",
-    "trasf": "Rugby Sondrio",
+    "casa": "varese",
+    "trasf": "sondrio",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Ivrea Rugby Club",
-    "trasf": "Rugby Varese",
+    "casa": "ivrea",
+    "trasf": "varese",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Biella Rugby Club",
-    "trasf": "Rugby San Mauro",
+    "casa": "biella",
+    "trasf": "mauro",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Rho",
-    "trasf": "Rugby Cernusco",
+    "casa": "rho",
+    "trasf": "cernusco",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Parabiago",
-    "trasf": "CUS Milano Rugby",
+    "casa": "parabiago",
+    "trasf": "milano",
     "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
   },
   {
-    "casa": "Rugby Sondrio",
-    "trasf": "Savona Rugby",
+    "casa": "sondrio",
+    "trasf": "savona",
     "sc1": null,
     "sc2": null,
     "pt1": null,
