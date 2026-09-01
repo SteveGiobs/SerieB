@@ -15,7 +15,7 @@ import fs from "fs";
 const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS5zfIOPMDHUmjMnokA_S8C5spCAR8bKnGPNXuh_TCsgr5rMXkKaIqpe2RK2eatci9cKz8AukcCSOtC/pub?gid=108566343&single=true&output=csv";
 
 // Nome esatto della tua squadra come compare nelle colonne casa/trasf del foglio
-const SQUADRA_PRINCIPALE = "Savona";
+const SQUADRA_PRINCIPALE = "savona";
 
 const CLASSIFICA_PATH = "partiteClassifica.json";
 const CALENDARIO_PATH = "partiteCalendario.json";
