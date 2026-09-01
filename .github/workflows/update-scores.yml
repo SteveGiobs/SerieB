@@ -1,0 +1,36 @@
+# Salva questo file in: .github/workflows/update-scores.yml (nel tuo repo)
+
+name: Aggiorna risultati partite
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # ogni 15 minuti - modifica a piacere
+  workflow_dispatch:          # ti permette di lanciarlo a mano da GitHub
+  repository_dispatch:        # permette al Google Sheet di attivarlo all'istante
+    types: [aggiorna-risultati]
+
+permissions:
+  contents: write   # necessario per fare il commit/push automatico
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Genera JSON dal Google Sheet
+        run: node scripts/generate-json.mjs
+
+      - name: Commit e push se ci sono modifiche
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add partiteClassifica.json partiteCalendario.json
+          git diff --cached --quiet || git commit -m "Aggiorna risultati partite [auto]"
+          git push
