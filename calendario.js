@@ -1,25 +1,30 @@
 /* ==== CARICO I LOGHI ==== */
 const LOGHI = {
-	savona: "Logo_SavonaBianco.jpg",
-	spezia:"Logo_Spezia.jpg",
-	genova:"Logo_CusGenovaRosso.png",
-	province:"Logo_Province.jpg",
-	recco:"Logo_Recco.png",
-	imperia:"Logo_Imperia.png",
-	cogoleto:"Logo_Cogoleto.png",
-	amatori:"Logo_Amatori.png"
+  savona: "Logo_SavonaBianco.jpg",
+	ivrea: "Logo_Ivrea.jpg",
+	biella: "Logo_Biella.jpg",
+	mauro: "Logo_SanMauro.jpg",
+	rho: "Logo_Rho.jpg",
+	parabiago: "Logo_Parabiago.jpg",
+	cernusco: "Logo_Cernusco.jpg",
+	varese: "Logo_Varese.jpg",
+	milano: "Logo_CusMilano.jpg",
+	sondrio: "RLogo_Sondrio.jpg"
 };
 
-/* ==== NOMI COMPLETI ==== */
+/* ==== NOMI COMPLETI==== */
 const nomiSquadre = {
-  savona: "Savona",
-	spezia: "RFC Spezia",
-	genova: "Cus Genova",
-	province: "Province dell'Ovest",
-	recco: "Pro Recco",
-	imperia: "Imperia",
-	cogoleto: "CFFS Vespe Cogoleto",
-	amatori: "Amatori Genova"
+  savona: "Savona Rugby",
+	ivrea: "Ivrea Rugby Club",
+	biella: "Biella Rugby Club",
+	mauro: "Rugby San Mauro",
+	rho: "Rugby Rho",
+	parabiago: "Rugby Parabiago",
+	cernusco: "Rugby Cernusco",
+	varese: "Rugby Varese",
+	milano: "CUS Milano Rugby",
+	sondrio: "Rugby Sondrio"
+  
 };
 
 /* ==== GENERAZIONE CARD ==== */
