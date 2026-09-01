@@ -12,10 +12,10 @@ import fs from "fs";
 
 // Incolla qui il link CSV pubblicato del tuo Google Sheet
 // (File → Condividi → Pubblica sul web → scegli il foglio → formato CSV)
-const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS5zfIOPMDHUmjMnokA_S8C5spCAR8bKnGPNXuh_TCsgr5rMXkKaIqpe2RK2eatci9cKz8AukcCSOtC/pub?gid=108566343&single=true&output=csv";
+const SHEET_CSV_URL = "INCOLLA_QUI_IL_LINK_CSV_PUBBLICATO";
 
 // Nome esatto della tua squadra come compare nelle colonne casa/trasf del foglio
-const SQUADRA_PRINCIPALE = "savona";
+const SQUADRA_PRINCIPALE = "Savona";
 
 const CLASSIFICA_PATH = "partiteClassifica.json";
 const CALENDARIO_PATH = "partiteCalendario.json";
@@ -81,6 +81,18 @@ function toNumberOrNull(value) {
   return Number(value);
 }
 
+// Converte una data scritta in formato italiano GG/MM/AAAA (come la esporta
+// di default Google Sheets) nel formato ISO AAAA-MM-GG, l'unico che
+// new Date(...) interpreta sempre allo stesso modo in ogni browser.
+// Se la cella è già in formato ISO, la lascia invariata.
+function toISODate(value) {
+  if (!value) return value;
+  const match = value.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (!match) return value; // già ISO o formato non riconosciuto: non tocco
+  const [, giorno, mese, anno] = match;
+  return `${anno}-${mese.padStart(2, "0")}-${giorno.padStart(2, "0")}`;
+}
+
 function isPropriaSquadra(row) {
   const target = SQUADRA_PRINCIPALE.toLowerCase();
   return (
@@ -115,7 +127,7 @@ async function main() {
       trasf: r.trasf,
       sc1: toNumberOrNull(r.sc1),
       sc2: toNumberOrNull(r.sc2),
-      data: r.data,
+      data: toISODate(r.data),
       ora: r.ora,
       luogo: r.luogo,
     }));
