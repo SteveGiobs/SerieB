@@ -1,73 +1,542 @@
 [
-  { "casa": "Genova",   "trasf": "Cogoleto",  "sc1": 17,   "sc2": 5 ,    "pt1": 4, "pt2": 0},
-  { "casa": "Imperia",  "trasf": "Amatori",   "sc1": 3,    "sc2": 38 ,   "pt1": 0, "pt2": 5},
-  { "casa": "Province", "trasf": "Recco",     "sc1": 23,   "sc2": 15 ,   "pt1": 4, "pt2": 0},
-  { "casa": "Spezia",   "trasf": "Savona",    "sc1": 0,    "sc2": 29 ,   "pt1": 0, "pt2": 5},
-  
-  { "casa": "Cogoleto", "trasf": "Spezia",    "sc1": 31,   "sc2": 20 ,   "pt1": 5, "pt2": 0},
-  { "casa": "Savona",   "trasf": "Genova",    "sc1": 36,   "sc2": 7 ,    "pt1": 5, "pt2": 0},
-  { "casa": "Recco",    "trasf": "Imperia",   "sc1": 46,   "sc2": 5 ,    "pt1": 5, "pt2": 0},
-  { "casa": "Amatori",  "trasf": "Province",  "sc1": 3,    "sc2": 20 ,   "pt1": 0, "pt2": 4},
-  
-  { "casa": "Recco",    "trasf": "Cogoleto",  "sc1": 19,   "sc2": 10 ,   "pt1": 4, "pt2": 0},
-  { "casa": "Spezia",   "trasf": "Imperia",   "sc1": 48,   "sc2": 18 ,   "pt1": 5, "pt2": 0},
-  { "casa": "Savona",   "trasf": "Amatori",   "sc1": 36,   "sc2": 17 ,   "pt1": 5, "pt2": 0},
-  { "casa": "Genova",   "trasf": "Province",  "sc1": 22,   "sc2": 8 ,    "pt1": 5, "pt2": 0},
-  
-  { "casa": "Amatori",  "trasf": "Genova",    "sc1": 18,   "sc2": 29 ,   "pt1": 0, "pt2": 5},
-  { "casa": "Imperia",  "trasf": "Cogoleto",  "sc1": 8,    "sc2": 38 ,   "pt1": 0, "pt2": 5},
-  { "casa": "Province", "trasf": "Savona",    "sc1": 16,   "sc2": 28 ,   "pt1": 0, "pt2": 5},
-  { "casa": "Spezia",   "trasf": "Recco",     "sc1": 16,   "sc2": 12 ,   "pt1": 4, "pt2": 1},
-  
-  { "casa": "Cogoleto", "trasf": "Amatori",   "sc1": 24,   "sc2": 13 ,   "pt1": 4, "pt2": 0},
-  { "casa": "Genova",   "trasf": "Imperia",   "sc1": 38,   "sc2": 5 ,    "pt1": 5, "pt2": 0},
-  { "casa": "Province", "trasf": "Spezia",    "sc1": 66,   "sc2": 5 ,    "pt1": 5, "pt2": 0},
-  { "casa": "Savona",   "trasf": "Recco",     "sc1": 19,   "sc2": 18 ,   "pt1": 4, "pt2": 1},
-  
-  { "casa": "Amatori",  "trasf": "Spezia",    "sc1": 32, "sc2": 3 , "pt1": 5, "pt2": 0},
-  { "casa": "Cogoleto", "trasf": "Province",  "sc1": 19, "sc2": 13 , "pt1": 4, "pt2": 1},
-  { "casa": "Imperia",  "trasf": "Savona",    "sc1": 0, "sc2": 50 , "pt1": 0, "pt2": 5},
-  { "casa": "Recco",    "trasf": "Genova",    "sc1": 18, "sc2": 20 , "pt1": 1, "pt2": 4},
-  
-  { "casa": "Amatori",  "trasf": "Recco",     "sc1": 33, "sc2": 10 , "pt1": 4, "pt2": 0},
-  { "casa": "Province", "trasf": "Imperia",   "sc1": 48, "sc2": 17 , "pt1": 5, "pt2": 0},
-  { "casa": "Spezia",   "trasf": "Genova",    "sc1": 3, "sc2": 38 , "pt1": 0, "pt2": 5},
-  { "casa": "Savona",   "trasf": "Cogoleto",  "sc1": 40, "sc2": 7 , "pt1": 5, "pt2": 0},
-  
-  
-  
-  { "casa": "Cogoleto", "trasf": "Genova",  "sc1": 15, "sc2": 12 , "pt1": 4, "pt2": 1},
-  { "casa": "Amatori",  "trasf": "Imperia",   "sc1": 55, "sc2": 0 , "pt1": 5, "pt2": 0},
-  { "casa": "Recco",    "trasf": "Province",    "sc1": 14, "sc2": 23 , "pt1": 0, "pt2": 4},
-  { "casa": "Savona",   "trasf": "Spezia",    "sc1": 72, "sc2": 21 , "pt1": 5, "pt2": 0},
-  
-  { "casa": "Spezia",   "trasf": "Cogoleto",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Genova",   "trasf": "Savona",     "sc1": 14, "sc2": 32 , "pt1": 0, "pt2": 5},
-  { "casa": "Imperia",  "trasf": "Recco",    "sc1": 15, "sc2": 19 , "pt1": 1, "pt2": 4},
-  { "casa": "Province", "trasf": "Amatori",   "sc1": 17, "sc2": 10 , "pt1": 4, "pt2": 1},
-  
-  { "casa": "Cogoleto", "trasf": "Recco",  "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Imperia",  "trasf": "Spezia",   "sc1": 26, "sc2": 0 , "pt1": 5, "pt2": 0},
-  { "casa": "Amatori",  "trasf": "Savona",    "sc1": 14, "sc2": 15 , "pt1": 1, "pt2": 4},
-  { "casa": "Province", "trasf": "Genova",   "sc1": 11, "sc2": 17 , "pt1": 1, "pt2": 4},
-  
-  { "casa": "Genova",   "trasf": "Amatori",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Cogoleto", "trasf": "Imperia",   "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Savona",   "trasf": "Province",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Recco",    "trasf": "Spezia",     "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  
-  { "casa": "Amatori",  "trasf": "Cogoleto",   "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Imperia",  "trasf": "Genova",   "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Spezia",   "trasf": "Province",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Recco",    "trasf": "Savona",     "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  
-  { "casa": "Spezia",   "trasf": "Amatori",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Province", "trasf": "Cogoleto",  "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Savona",   "trasf": "Imperia",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Genova",   "trasf": "Recco",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  
-  { "casa": "Recco",    "trasf": "Amatori",     "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Imperia",  "trasf": "Province",   "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Genova",   "trasf": "Spezia",    "sc1": null, "sc2": null , "pt1": 0, "pt2": 0},
-  { "casa": "Cogoleto", "trasf": "Savona",  "sc1": null, "sc2": null , "pt1": 0, "pt2": 0}
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  }
 ]
