@@ -30,7 +30,7 @@ const nomiSquadre = {
 /* ==== GENERAZIONE CARD ==== */
 const container = document.getElementById("matches");
 let nextFound = false;
-fetch('https://SteveGiobs.github.io/miosito/partiteCalendario.json')
+fetch('https://SteveGiobs.github.io/SerieB/partiteCalendario.json')
   .then(res => res.json())
   .then(partiteCalendario => {
     partiteCalendario.forEach(p => {
