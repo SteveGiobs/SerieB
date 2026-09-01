@@ -12,10 +12,10 @@ import fs from "fs";
 
 // Incolla qui il link CSV pubblicato del tuo Google Sheet
 // (File → Condividi → Pubblica sul web → scegli il foglio → formato CSV)
-const SHEET_CSV_URL = "INCOLLA_QUI_IL_LINK_CSV_PUBBLICATO";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS5zfIOPMDHUmjMnokA_S8C5spCAR8bKnGPNXuh_TCsgr5rMXkKaIqpe2RK2eatci9cKz8AukcCSOtC/pub?gid=108566343&single=true&output=csv";
 
 // Nome esatto della tua squadra come compare nelle colonne casa/trasf del foglio
-const SQUADRA_PRINCIPALE = "Savona";
+const SQUADRA_PRINCIPALE = "Savona Rugby";
 
 const CLASSIFICA_PATH = "partiteClassifica.json";
 const CALENDARIO_PATH = "partiteCalendario.json";
