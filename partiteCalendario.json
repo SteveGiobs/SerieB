@@ -2,7 +2,7 @@
   {
     "casa": "ivrea",
     "trasf": "savona",
-    "sc1": null,
+    "sc1": 25,
     "sc2": null,
     "data": "2026-10-18",
     "ora": "15:30",

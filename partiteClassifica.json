@@ -2,10 +2,10 @@
   {
     "casa": "ivrea",
     "trasf": "savona",
-    "sc1": null,
+    "sc1": 25,
     "sc2": null,
-    "pt1": null,
-    "pt2": null
+    "pt1": 4,
+    "pt2": 0
   },
   {
     "casa": "biella",
